@@ -821,7 +821,7 @@ N. Date of Ethics Committee Opinion: 2012-10-23
 
 P. End of Trial
 P. End of Trial Status: Completed
-P. Date of the global end of the trial: 2014-09-30
+P. Date of the global end of the trial: 2017-09-30
 
 Summary
 EudraCT Number: 2012-003057-29
